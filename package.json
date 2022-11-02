@@ -1,0 +1,33 @@
+{
+  "name": "faceitsolidityapp",
+  "version": "1.0.0",
+  "description": "Приложение представляет собой сайт и блокчейн структуру, реализующую рейтинговую таблицу игроков - пользователей [faceit](https://www.faceit.com/ru/home).\r С наградой в виде криптовалюты для топа игроков. Приложение будет использовать учётную запись faceit и с разрешения пользователя, будет следить за результами \r матчей в течении следующего ладдера (дневного, недельного, месячного). По окончанию ладдера, подсчитываются очки и игрокам с наибольшим количеством очков \r начисляется криптовалюта. При записи на участие в ладдер, будет учитываться следующий ладдер, а не текущий.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PablloS/faceitSolidityApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PablloS/faceitSolidityApp/issues"
+  },
+  "homepage": "https://github.com/PablloS/faceitSolidityApp#readme",
+  "devDependencies": {
+    "@types/chai": "^4.3.3",
+    "@types/mocha": "^10.0.0",
+    "chai": "^4.3.6",
+    "hardhat": "^2.12.2",
+    "mocha": "^10.1.0"
+  },
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
