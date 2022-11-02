@@ -5,6 +5,20 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "skipLibCheck": true
-  }
+    "skipLibCheck": true,
+    "rootDirs": [
+      "./src",
+      "./scripts",
+      "./test"
+    ],
+    "esModuleInterop": true
+  },
+  "include": [
+    "../faceitSolidityApp/test",
+    "../faceitSolidityApp/src",
+    "../faceitSolidityApp/scripts"
+  ], //only the "scripts" part.
+  "files": [
+    "../faceitSolidityApp/hardhat.config.ts"
+  ]
 }
