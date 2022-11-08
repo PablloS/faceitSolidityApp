@@ -7,15 +7,13 @@
 
 ## Команда
 
-![This is an image](https://sun9-42.userapi.com/impg/v8UK8yo6c-JxvPfytns_KlhuzSmcexC-STblmg/xyHkzFPkv0Y.jpg?size=598x604&quality=95&sign=f332c3bf21d01b1e781042507f79d783&type=album)
+Даниил Бурцев
 
-Даниил "Шлюшка" Бурцев
+Павел Константинов
 
-Павел "Mystical WISE 3" Константинов
+Алексей Белкин
 
-Алексей "Mystical WISE 2" Белкин
-
-Глеб "Mystical WISE 1" Зеленский
+Глеб Зеленский
 
 ```shell
 npx hardhat help
